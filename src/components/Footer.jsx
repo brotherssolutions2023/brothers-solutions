@@ -32,7 +32,7 @@ export const Footer = () => {
                 </a>
                 <a
                   className="inline-block w-10  h-10 mr-2 p-2 bg-customDarkBg2 custom-border-gray  hover:bg-gray-700 rounded-xl"
-                  href="#"
+                  href="https://www.instagram.com/brotherssolutions.tech/"
                 >
                   <InstagramIcon />
                 </a>

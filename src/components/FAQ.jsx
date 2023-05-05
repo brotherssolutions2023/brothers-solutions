@@ -16,7 +16,7 @@ export const FAQ = () => (
             Tienes alguna pregunta?
           </p>
           <h2 className="mb-16 custom-block-big-title text-center">
-            Frequently Asked Questions
+            Preguntas frecuentes
           </h2>
           <div className="mb-11 flex flex-wrap -m-1">
             <div className="w-full p-1">

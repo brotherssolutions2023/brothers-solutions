@@ -63,13 +63,15 @@ export const InvitationModal = ({ setIsOpen }) => (
                   />
                 </div> */}
                 <div className="w-full sm:w-4/5 p-2 mt-4 mx-auto">
-                  <button
-                    className="py-4 px-6 flex justify-center align-middle w-48 text-white font-semibold rounded-xl shadow-4xl focus:ring focus:ring-indigo-300 bg-customPrimary hover:bg-[#7765e6] transition ease-in-out duration-200"
-                    type="button"
-                  >
-                    <Whatsapp className="mr-3" />
-                    Contactanos
-                  </button>
+                  <a href="https://wa.me/5493584168036" target="_blank">
+                    <button
+                      className="py-4 px-6 flex justify-center align-middle w-48 text-white font-semibold rounded-xl shadow-4xl focus:ring focus:ring-indigo-300 bg-customPrimary hover:bg-[#7765e6] transition ease-in-out duration-200"
+                      type="button"
+                    >
+                      <Whatsapp className="mr-3" />
+                      Contactanos
+                    </button>
+                  </a>
                 </div>
               </div>
             </div>
